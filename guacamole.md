@@ -1,6 +1,6 @@
-\# Guacamole
+# Guacamole
 
-\## Ingredientes
+## Ingredientes
 
-\### Instrucciones	
+### Instrucciones	
 
